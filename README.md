@@ -36,7 +36,7 @@ ________________________________________________________________________________
 1. ✅ Clone the repository
 
 ```bash
-git clone https://github.com/Amol027/auto-labeler.git
+git clone https://github.com/Devendra2803/auto-labeler.git
 cd auto-labeler
 ```
 
